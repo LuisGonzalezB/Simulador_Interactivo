@@ -1,0 +1,10 @@
+body{
+    background-color: rgb(211, 169, 114);
+}
+
+img{
+    border: 5px solid #000000;
+    width: 15rem;
+    height: 90%;
+    margin-top: 20px;
+}   
